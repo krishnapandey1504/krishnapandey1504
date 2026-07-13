@@ -1,31 +1,29 @@
-# Hi 👋, I'm Krishna Pandey
+# Hi there, I'm Krishna Pandey 👋
 
-### Frontend Developer | React • Next.js • Node.js
+### 🚀 Frontend Developer • React • Next.js • Node.js
 
-### Open Source Contributor | B.Tech CSE Student
+### 🌱 Open Source Contributor • B.Tech CSE Student
 
-🚀 Passionate about building modern web applications and contributing to open source.
+I'm a passionate developer who enjoys building modern, responsive web applications and contributing to open-source projects. I love turning ideas into clean, user-friendly products while continuously learning new technologies.
 
-🔭 Currently Building: Full-Stack Applications & Open Source Projects
-
-🌱 Learning: DSA, Backend Development, System Design & Open Source Development
-
-💬 Ask Me About: React, Next.js, JavaScript, Git & GitHub
-
-⚡ Fun Fact: Contributed to open source projects and participated in hackathons while in college.
+* 🔭 **Currently Building:** Full-Stack Applications & Open Source Projects
+* 🌱 **Currently Learning:** Data Structures & Algorithms, Backend Development, System Design & Open Source
+* 💡 **Interested In:** Full-Stack Development, AI-powered Applications & Developer Tools
+* 💬 **Ask Me About:** React, Next.js, JavaScript, Git, GitHub & Web Development
+* ⚡ **Fun Fact:** I've contributed to open-source projects and participated in hackathons throughout college.
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-* Portfolio: https://krishnapandey.vercel.app/
-* LinkedIn: https://www.linkedin.com/in/krishnapandey1504
+* 🌍 **Portfolio:** https://krishnapandey.vercel.app
+* 💼 **LinkedIn:** https://www.linkedin.com/in/krishnapandey1504
 
 ---
 
-## 🛠️ Tech Stack
+# 💻 Tech Stack
 
-### Frontend
+### 🎨 Frontend
 
 * React.js
 * Next.js
@@ -34,22 +32,22 @@
 * CSS3
 * Responsive Web Design
 
-### Backend
+### ⚙️ Backend
 
 * Node.js
 * Express.js
 * REST APIs
 
-### Database
+### 🗄️ Database
 
 * MongoDB
 
-### Programming Languages
+### 💡 Programming Languages
 
 * JavaScript
 * C++
 
-### Tools & Platforms
+### 🛠️ Tools & Platforms
 
 * Git
 * GitHub
@@ -60,51 +58,60 @@
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 🌐 Portfolio Website
 
-A modern developer portfolio built with Next.js featuring responsive design, project showcase, and smooth user experience.
+A modern developer portfolio built with **Next.js**, showcasing projects, skills, and responsive UI with smooth animations.
 
 ### 📰 VeriFy
 
-AI-powered misinformation and news bias detection platform designed to improve information credibility and awareness.
+An AI-powered platform for **misinformation detection** and **news bias analysis**, designed to promote trustworthy information.
 
 ### 🤖 Ethos Agentic AI System
 
-An agentic AI solution developed for hackathons, capable of reasoning, planning, and solving complex tasks.
+A hackathon project focused on **agentic AI**, enabling reasoning, planning, and autonomous task execution.
 
 ### 🏥 OmniDx
 
-A multimodal healthcare AI assistant for clinical triage and diagnostic support using advanced AI models.
+A multimodal healthcare AI assistant designed for **clinical triage** and **diagnostic support** using advanced AI models.
 
 ---
 
-## 🏆 Open Source Contributions
+# 🏆 Open Source
 
-* Merged Pull Request in homelab-monitor
-* Implemented Unified Toast Notification System
-* UI Improvements and Bug Fixes
-* Active Open Source Contributor
-
----
-
-## 📊 GitHub Stats
-
-![Krishna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnapandey1504\&show_icons=true\&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnapandey1504\&layout=compact\&theme=github_dark)
+* ✅ Merged Pull Request in **homelab-monitor**
+* 🚀 Implemented a Unified Toast Notification System
+* 🐛 Fixed bugs and improved UI components
+* ❤️ Active Open Source Contributor
 
 ---
 
-## 🎯 2026 Goals
+# 📊 GitHub Analytics
 
-* Contribute to more open-source projects
-* Strengthen DSA & Problem Solving
-* Build production-ready full-stack applications
-* Secure a Software Engineering Internship
-* Grow as a React & Next.js Developer
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=krishnapandey1504&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnapandey1504&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
 ---
 
-⭐ Always learning, building, and sharing knowledge through code.
+# 🎯 2026 Goals
+
+* 🚀 Contribute to impactful open-source projects
+* 📚 Master Data Structures & Algorithms
+* 💼 Build production-ready full-stack applications
+* 🌟 Secure a Software Engineering Internship
+* ⚛️ Deepen expertise in React, Next.js & Backend Development
+
+---
+
+## 💡 Philosophy
+
+> *"Code is more than solving problems—it's about creating experiences, learning continuously, and making an impact through technology."*
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! If you like my work, consider giving a ⭐ to my repositories.
+</p>
